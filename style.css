@@ -1,0 +1,28 @@
+{margin: 0;
+    Sm titulo.png
+    padding: 0;
+    #style.css 
+    box-sizing: border-box;}
+    body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(25, 0, 255);
+    }
+    p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    color: #ff0000; /* Verde bem claro para contraste */
+   }
+    .imagem.projeto {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    /* Ocupa a largura total disponivel... */
+    /*...mas não passa de 500 pixels de largura /
+    / Ajusta a altura automaticamente para não distorcer */
+    / Transforma a imagem em um bloco para aceitar margens */
+    / 20px de espaço em cima/baixo e 'auto' centraliza nas laterais */
